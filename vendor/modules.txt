@@ -1,0 +1,464 @@
+# github.com/FloatTech/AnimeAPI v1.4.1-0.20220512034947-4dd25b414348
+## explicit; go 1.18
+github.com/FloatTech/AnimeAPI/aireply
+github.com/FloatTech/AnimeAPI/ascii2d
+github.com/FloatTech/AnimeAPI/danbooru
+github.com/FloatTech/AnimeAPI/nsfw
+github.com/FloatTech/AnimeAPI/pixiv
+github.com/FloatTech/AnimeAPI/scale
+github.com/FloatTech/AnimeAPI/shindanmaker
+github.com/FloatTech/AnimeAPI/tl
+github.com/FloatTech/AnimeAPI/tts
+github.com/FloatTech/AnimeAPI/tts/baidutts
+github.com/FloatTech/AnimeAPI/tts/mockingbird
+# github.com/FloatTech/ZeroBot-Plugin v1.4.0
+## explicit; go 1.18
+github.com/FloatTech/ZeroBot-Plugin/kanban
+github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false
+github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply
+github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife
+github.com/FloatTech/ZeroBot-Plugin/plugin/atri
+github.com/FloatTech/ZeroBot-Plugin/plugin/b14
+github.com/FloatTech/ZeroBot-Plugin/plugin/baidu
+github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili
+github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_parse
+github.com/FloatTech/ZeroBot-Plugin/plugin/book_review
+github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi
+github.com/FloatTech/ZeroBot-Plugin/plugin/chat
+github.com/FloatTech/ZeroBot-Plugin/plugin/choose
+github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua
+github.com/FloatTech/ZeroBot-Plugin/plugin/coser
+github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory
+github.com/FloatTech/ZeroBot-Plugin/plugin/curse
+github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru
+github.com/FloatTech/ZeroBot-Plugin/plugin/diana
+github.com/FloatTech/ZeroBot-Plugin/plugin/diana/data
+github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle
+github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix
+github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic
+github.com/FloatTech/ZeroBot-Plugin/plugin/font
+github.com/FloatTech/ZeroBot-Plugin/plugin/fortune
+github.com/FloatTech/ZeroBot-Plugin/plugin/funny
+github.com/FloatTech/ZeroBot-Plugin/plugin/genshin
+github.com/FloatTech/ZeroBot-Plugin/plugin/gif
+github.com/FloatTech/ZeroBot-Plugin/plugin/github
+github.com/FloatTech/ZeroBot-Plugin/plugin/hs
+github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku
+github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder
+github.com/FloatTech/ZeroBot-Plugin/plugin/inject
+github.com/FloatTech/ZeroBot-Plugin/plugin/jandan
+github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi
+github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon
+github.com/FloatTech/ZeroBot-Plugin/plugin/manager
+github.com/FloatTech/ZeroBot-Plugin/plugin/manager/timer
+github.com/FloatTech/ZeroBot-Plugin/plugin/moyu
+github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar
+github.com/FloatTech/ZeroBot-Plugin/plugin/music
+github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu
+github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife
+github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh
+github.com/FloatTech/ZeroBot-Plugin/plugin/novel
+github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw
+github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji
+github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife
+github.com/FloatTech/ZeroBot-Plugin/plugin/reborn
+github.com/FloatTech/ZeroBot-Plugin/plugin/runcode
+github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao
+github.com/FloatTech/ZeroBot-Plugin/plugin/scale
+github.com/FloatTech/ZeroBot-Plugin/plugin/score
+github.com/FloatTech/ZeroBot-Plugin/plugin/setutime
+github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao
+github.com/FloatTech/ZeroBot-Plugin/plugin/shindan
+github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage
+github.com/FloatTech/ZeroBot-Plugin/plugin/tarot
+github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus
+github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou
+github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe
+github.com/FloatTech/ZeroBot-Plugin/plugin/translation
+github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation
+github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation/model
+github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun
+github.com/FloatTech/ZeroBot-Plugin/plugin/word_count
+github.com/FloatTech/ZeroBot-Plugin/plugin/wordle
+github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal
+github.com/FloatTech/ZeroBot-Plugin/plugin/zaobao
+# github.com/FloatTech/sqlite v0.2.1
+## explicit; go 1.17
+github.com/FloatTech/sqlite
+# github.com/FloatTech/zbputils v1.4.1-0.20220514105630-80024139bd3c
+## explicit; go 1.18
+github.com/FloatTech/zbputils/binary
+github.com/FloatTech/zbputils/control
+github.com/FloatTech/zbputils/ctxext
+github.com/FloatTech/zbputils/driver
+github.com/FloatTech/zbputils/file
+github.com/FloatTech/zbputils/img
+github.com/FloatTech/zbputils/img/pool
+github.com/FloatTech/zbputils/img/text
+github.com/FloatTech/zbputils/img/writer
+github.com/FloatTech/zbputils/job
+github.com/FloatTech/zbputils/math
+github.com/FloatTech/zbputils/process
+github.com/FloatTech/zbputils/vevent
+github.com/FloatTech/zbputils/web
+# github.com/Microsoft/go-winio v0.5.1
+## explicit; go 1.12
+github.com/Microsoft/go-winio
+github.com/Microsoft/go-winio/pkg/guid
+# github.com/Mrs4s/MiraiGo v0.0.0-20220510113536-fba6bc90e262
+## explicit; go 1.18
+github.com/Mrs4s/MiraiGo/binary
+github.com/Mrs4s/MiraiGo/binary/jce
+github.com/Mrs4s/MiraiGo/client
+github.com/Mrs4s/MiraiGo/client/internal/auth
+github.com/Mrs4s/MiraiGo/client/internal/highway
+github.com/Mrs4s/MiraiGo/client/internal/network
+github.com/Mrs4s/MiraiGo/client/internal/oicq
+github.com/Mrs4s/MiraiGo/client/pb
+github.com/Mrs4s/MiraiGo/client/pb/channel
+github.com/Mrs4s/MiraiGo/client/pb/cmd0x346
+github.com/Mrs4s/MiraiGo/client/pb/cmd0x352
+github.com/Mrs4s/MiraiGo/client/pb/cmd0x388
+github.com/Mrs4s/MiraiGo/client/pb/cmd0x3f6
+github.com/Mrs4s/MiraiGo/client/pb/cmd0x6ff
+github.com/Mrs4s/MiraiGo/client/pb/exciting
+github.com/Mrs4s/MiraiGo/client/pb/faceroam
+github.com/Mrs4s/MiraiGo/client/pb/highway
+github.com/Mrs4s/MiraiGo/client/pb/longmsg
+github.com/Mrs4s/MiraiGo/client/pb/msf
+github.com/Mrs4s/MiraiGo/client/pb/msg
+github.com/Mrs4s/MiraiGo/client/pb/msgtype0x210
+github.com/Mrs4s/MiraiGo/client/pb/multimsg
+github.com/Mrs4s/MiraiGo/client/pb/notify
+github.com/Mrs4s/MiraiGo/client/pb/oidb
+github.com/Mrs4s/MiraiGo/client/pb/profilecard
+github.com/Mrs4s/MiraiGo/client/pb/pttcenter
+github.com/Mrs4s/MiraiGo/client/pb/qweb
+github.com/Mrs4s/MiraiGo/client/pb/richmedia
+github.com/Mrs4s/MiraiGo/client/pb/structmsg
+github.com/Mrs4s/MiraiGo/client/pb/web
+github.com/Mrs4s/MiraiGo/internal/crypto
+github.com/Mrs4s/MiraiGo/internal/packets
+github.com/Mrs4s/MiraiGo/internal/proto
+github.com/Mrs4s/MiraiGo/internal/tlv
+github.com/Mrs4s/MiraiGo/message
+github.com/Mrs4s/MiraiGo/topic
+github.com/Mrs4s/MiraiGo/utils
+# github.com/Mrs4s/go-cqhttp v1.0.0-rc1 => github.com/FloatTech/gocq v1.0.0-rc1.0.20220430104851-e65ed17db473
+## explicit; go 1.18
+github.com/Mrs4s/go-cqhttp/cmd/gocq
+github.com/Mrs4s/go-cqhttp/coolq
+github.com/Mrs4s/go-cqhttp/coolq/cqcode
+github.com/Mrs4s/go-cqhttp/db
+github.com/Mrs4s/go-cqhttp/db/leveldb
+github.com/Mrs4s/go-cqhttp/global
+github.com/Mrs4s/go-cqhttp/global/terminal
+github.com/Mrs4s/go-cqhttp/internal/base
+github.com/Mrs4s/go-cqhttp/internal/btree
+github.com/Mrs4s/go-cqhttp/internal/cache
+github.com/Mrs4s/go-cqhttp/internal/param
+github.com/Mrs4s/go-cqhttp/internal/selfdiagnosis
+github.com/Mrs4s/go-cqhttp/internal/selfupdate
+github.com/Mrs4s/go-cqhttp/modules/api
+github.com/Mrs4s/go-cqhttp/modules/config
+github.com/Mrs4s/go-cqhttp/modules/filter
+github.com/Mrs4s/go-cqhttp/modules/mime
+github.com/Mrs4s/go-cqhttp/modules/servers
+github.com/Mrs4s/go-cqhttp/modules/silk
+github.com/Mrs4s/go-cqhttp/server
+# github.com/RomiChan/protobuf v0.0.0-20220318113238-d8a99598f896
+## explicit; go 1.17
+github.com/RomiChan/protobuf/internal/runtime_reflect
+github.com/RomiChan/protobuf/proto
+# github.com/RomiChan/syncx v0.0.0-20220404072119-d7ea0ae15a4c
+## explicit; go 1.18
+github.com/RomiChan/syncx
+# github.com/RomiChan/websocket v1.4.3-0.20220123145318-307a86b127bc
+## explicit; go 1.12
+github.com/RomiChan/websocket
+# github.com/antchfx/htmlquery v1.2.4
+## explicit; go 1.14
+github.com/antchfx/htmlquery
+# github.com/antchfx/xpath v1.2.0
+## explicit; go 1.14
+github.com/antchfx/xpath
+# github.com/corona10/goimagehash v1.0.3
+## explicit
+github.com/corona10/goimagehash
+github.com/corona10/goimagehash/etcs
+github.com/corona10/goimagehash/transforms
+# github.com/disintegration/imaging v1.6.2
+## explicit
+github.com/disintegration/imaging
+# github.com/ericpauley/go-quantize v0.0.0-20200331213906-ae555eb2afa4
+## explicit; go 1.12
+github.com/ericpauley/go-quantize/quantize
+# github.com/fogleman/gg v1.3.0
+## explicit
+github.com/fogleman/gg
+# github.com/fumiama/cron v1.3.0
+## explicit; go 1.16
+github.com/fumiama/cron
+# github.com/fumiama/go-base16384 v1.5.2
+## explicit; go 1.16
+github.com/fumiama/go-base16384
+# github.com/fumiama/go-hide-param v0.1.4
+## explicit; go 1.16
+github.com/fumiama/go-hide-param
+# github.com/fumiama/go-registry v0.1.6
+## explicit; go 1.17
+github.com/fumiama/go-registry
+# github.com/fumiama/gofastTEA v0.0.10
+## explicit; go 1.17
+github.com/fumiama/gofastTEA
+# github.com/fumiama/gotracemoe v0.0.3
+## explicit; go 1.16
+github.com/fumiama/gotracemoe
+# github.com/fumiama/imgsz v0.0.2
+## explicit; go 1.17
+github.com/fumiama/imgsz
+# github.com/fumiama/sqlite3 v1.14.6
+## explicit; go 1.16
+github.com/fumiama/sqlite3
+github.com/fumiama/sqlite3/lib
+# github.com/gabriel-vasile/mimetype v1.0.4
+## explicit; go 1.12
+github.com/gabriel-vasile/mimetype
+github.com/gabriel-vasile/mimetype/internal/json
+github.com/gabriel-vasile/mimetype/internal/matchers
+# github.com/go-ole/go-ole v1.2.6
+## explicit; go 1.12
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+## explicit
+github.com/golang/freetype
+github.com/golang/freetype/raster
+github.com/golang/freetype/truetype
+# github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
+## explicit
+github.com/golang/groupcache/lru
+# github.com/golang/snappy v0.0.4
+## explicit
+github.com/golang/snappy
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/jinzhu/gorm v1.9.16
+## explicit; go 1.12
+github.com/jinzhu/gorm
+# github.com/jinzhu/inflection v1.0.0
+## explicit
+github.com/jinzhu/inflection
+# github.com/jozsefsallai/gophersauce v1.0.1
+## explicit; go 1.13
+github.com/jozsefsallai/gophersauce
+# github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
+## explicit
+github.com/lestrrat-go/file-rotatelogs
+github.com/lestrrat-go/file-rotatelogs/internal/option
+# github.com/lestrrat-go/strftime v1.0.5
+## explicit; go 1.12
+github.com/lestrrat-go/strftime
+# github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0
+## explicit; go 1.16
+github.com/lufia/plan9stats
+# github.com/mattn/go-colorable v0.1.12
+## explicit; go 1.13
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.14
+## explicit; go 1.12
+github.com/mattn/go-isatty
+# github.com/mroth/weightedrand v0.4.1
+## explicit; go 1.10
+github.com/mroth/weightedrand
+# github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
+## explicit
+github.com/nfnt/resize
+# github.com/pierrec/lz4/v4 v4.1.11
+## explicit; go 1.14
+github.com/pierrec/lz4/v4
+github.com/pierrec/lz4/v4/internal/lz4block
+github.com/pierrec/lz4/v4/internal/lz4errors
+github.com/pierrec/lz4/v4/internal/lz4stream
+github.com/pierrec/lz4/v4/internal/xxh32
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/pkumza/numcn v1.0.0
+## explicit
+github.com/pkumza/numcn
+# github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c
+## explicit; go 1.14
+github.com/power-devops/perfstat
+# github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0
+## explicit; go 1.12
+github.com/remyoudompheng/bigfft
+# github.com/segmentio/asm v1.1.3
+## explicit; go 1.17
+github.com/segmentio/asm/base64
+github.com/segmentio/asm/cpu
+github.com/segmentio/asm/cpu/arm
+github.com/segmentio/asm/cpu/arm64
+github.com/segmentio/asm/cpu/cpuid
+github.com/segmentio/asm/cpu/x86
+github.com/segmentio/asm/internal/unsafebytes
+# github.com/shirou/gopsutil/v3 v3.22.3
+## explicit; go 1.15
+github.com/shirou/gopsutil/v3/cpu
+github.com/shirou/gopsutil/v3/disk
+github.com/shirou/gopsutil/v3/internal/common
+github.com/shirou/gopsutil/v3/mem
+# github.com/sirupsen/logrus v1.8.1
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+## explicit; go 1.14
+github.com/syndtr/goleveldb/leveldb
+github.com/syndtr/goleveldb/leveldb/cache
+github.com/syndtr/goleveldb/leveldb/comparer
+github.com/syndtr/goleveldb/leveldb/errors
+github.com/syndtr/goleveldb/leveldb/filter
+github.com/syndtr/goleveldb/leveldb/iterator
+github.com/syndtr/goleveldb/leveldb/journal
+github.com/syndtr/goleveldb/leveldb/memdb
+github.com/syndtr/goleveldb/leveldb/opt
+github.com/syndtr/goleveldb/leveldb/storage
+github.com/syndtr/goleveldb/leveldb/table
+github.com/syndtr/goleveldb/leveldb/util
+# github.com/tidwall/gjson v1.14.1
+## explicit; go 1.12
+github.com/tidwall/gjson
+# github.com/tidwall/match v1.1.1
+## explicit; go 1.15
+github.com/tidwall/match
+# github.com/tidwall/pretty v1.2.0
+## explicit; go 1.16
+github.com/tidwall/pretty
+# github.com/tklauser/go-sysconf v0.3.10
+## explicit; go 1.13
+github.com/tklauser/go-sysconf
+# github.com/tklauser/numcpus v0.4.0
+## explicit; go 1.11
+github.com/tklauser/numcpus
+# github.com/wcharczuk/go-chart/v2 v2.1.0
+## explicit; go 1.15
+github.com/wcharczuk/go-chart/v2
+github.com/wcharczuk/go-chart/v2/drawing
+github.com/wcharczuk/go-chart/v2/matrix
+github.com/wcharczuk/go-chart/v2/roboto
+# github.com/wdvxdr1123/ZeroBot v1.5.2-0.20220509035736-f3ad8fa960d7
+## explicit; go 1.18
+github.com/wdvxdr1123/ZeroBot
+github.com/wdvxdr1123/ZeroBot/extension
+github.com/wdvxdr1123/ZeroBot/extension/rate
+github.com/wdvxdr1123/ZeroBot/extension/single
+github.com/wdvxdr1123/ZeroBot/extension/ttl
+github.com/wdvxdr1123/ZeroBot/message
+github.com/wdvxdr1123/ZeroBot/utils/helper
+# github.com/wdvxdr1123/go-silk v0.0.0-20210316130616-d47b553def60
+## explicit; go 1.16
+github.com/wdvxdr1123/go-silk
+github.com/wdvxdr1123/go-silk/sdk
+# github.com/yusufpapurcu/wmi v1.2.2
+## explicit; go 1.16
+github.com/yusufpapurcu/wmi
+# go.uber.org/atomic v1.9.0
+## explicit; go 1.13
+go.uber.org/atomic
+# golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
+## explicit; go 1.17
+golang.org/x/crypto/pbkdf2
+# golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9
+## explicit; go 1.12
+golang.org/x/image/bmp
+golang.org/x/image/ccitt
+golang.org/x/image/draw
+golang.org/x/image/font
+golang.org/x/image/font/basicfont
+golang.org/x/image/math/f64
+golang.org/x/image/math/fixed
+golang.org/x/image/riff
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw
+golang.org/x/image/vp8
+golang.org/x/image/vp8l
+golang.org/x/image/webp
+# golang.org/x/net v0.0.0-20211123203042-d83791d6bcd9
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+## explicit
+golang.org/x/sync/errgroup
+# golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+## explicit; go 1.17
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+## explicit; go 1.17
+golang.org/x/term
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+# golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
+## explicit
+golang.org/x/time/rate
+# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+## explicit
+gopkg.in/yaml.v3
+# modernc.org/libc v1.14.6
+## explicit; go 1.16
+modernc.org/libc
+modernc.org/libc/errno
+modernc.org/libc/fcntl
+modernc.org/libc/fts
+modernc.org/libc/grp
+modernc.org/libc/honnef.co/go/netdb
+modernc.org/libc/langinfo
+modernc.org/libc/limits
+modernc.org/libc/netdb
+modernc.org/libc/netinet/in
+modernc.org/libc/poll
+modernc.org/libc/pthread
+modernc.org/libc/pwd
+modernc.org/libc/signal
+modernc.org/libc/stdio
+modernc.org/libc/stdlib
+modernc.org/libc/sys/socket
+modernc.org/libc/sys/stat
+modernc.org/libc/sys/types
+modernc.org/libc/termios
+modernc.org/libc/time
+modernc.org/libc/unistd
+modernc.org/libc/utime
+modernc.org/libc/uuid
+modernc.org/libc/uuid/uuid
+modernc.org/libc/wctype
+# modernc.org/mathutil v1.4.1
+## explicit; go 1.13
+modernc.org/mathutil
+# modernc.org/memory v1.0.5
+## explicit; go 1.15
+modernc.org/memory
+# github.com/Mrs4s/go-cqhttp => github.com/FloatTech/gocq v1.0.0-rc1.0.20220430104851-e65ed17db473

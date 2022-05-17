@@ -1,26 +1,21 @@
-FROM golang:1.18-alpine AS builder
+FROM golang:alpine3.15 AS build
 
-RUN go env -w GO111MODULE=on \
-  && go env -w CGO_ENABLED=0 \
-  && go env
+ENV BUILD_PATH /go/src/github.com/noobone/cqhttp
 
-RUN apk update && apk add git
-
-WORKDIR /build
-
-COPY ./ .
-
-RUN set -ex \
-    && go mod tidy \
-    && go build -ldflags "-s -w" -o cqhttp -trimpath
+RUN mkdir -p $BUILD_PATH 
+WORKDIR $BUILD_PATH
+COPY . $BUILD_PATH
 
 FROM alpine:latest
 
-RUN apk add --no-cache ffmpeg
+ENV BUILD_PATH /go/src/github.com/noobone/cqhttp
 
-COPY --from=builder /build/cqhttp /usr/bin/cqhttp
-RUN chmod +x /usr/bin/cqhttp
+COPY --from=build $BUILD_PATH /usr/bin/cqhttp
+
+RUN chmod +x /usr/bin/cqhttp \
+  && apk update \
+  && apk add --no-cache ffmpeg
 
 WORKDIR /data
 
-ENTRYPOINT [ "/usr/bin/cqhttp" ]
+CMD cqhttp

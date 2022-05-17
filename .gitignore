@@ -1,5 +1,3 @@
-vendor/
-.idea
 .vscode
 config.hjson
 config.yml
@@ -7,4 +5,5 @@ session.token
 device.json
 data/
 logs/
-go.sum
+password.encrypt
+cqhttp.exe
